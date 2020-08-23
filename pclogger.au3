@@ -18,7 +18,7 @@
 
 ; Find the following information from your own Google Form
 ; Look for "<form action="
-Local $FormResponseUrl = "https://docs.google.com/forms/u/0/d/e/1FAIpQLSeikfeU0vxcCOhG5mqKi3Sa-J-_NhItW-ESUYyFYDx8UNK9Nw/formResponse"
+Local $FormResponseUrl = "<Please populate form action URL>"
 ; Look for "data-params=" followed by &quot;Username&quot;,null,0,[[<number>
 Local $FormUsername = -1
 ; Look for "data-params=" followed by &quot;Executable&quot;,null,0,[[<number>
